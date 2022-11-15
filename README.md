@@ -10,8 +10,8 @@ clowney33/clowney33 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m Briana !
-🌱 I’m currently working on Codecademy Fullstack Engineer course.
+👋 Hi, I’m Briana ! <br>
+🌱 I’m currently working on Codecademy Fullstack Engineer course.<br>
 💞️ I’m looking to collaborate on any new projects
 📫 Send me a message on LinkedIn ! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briana-clowney-563a91168)
 ## 🌐 Socials:
