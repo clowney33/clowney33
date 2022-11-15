@@ -9,12 +9,13 @@
 clowney33/clowney33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center">👋 Hi, I’m Briana !</h1>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/70237126/201799365-11aeef3e-6813-47ef-b7c9-4610268c772f.png">
+
 # 💫 About Me:
-👋 Hi, I’m Briana ! <br>
 🌱 I’m currently working on Codecademy Fullstack Engineer course.<br>
 💞️ I’m looking to collaborate on any new projects<br>
 📫 Send me a message on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briana-clowney-563a91168)
-<img align="right" width="400" src="https://user-images.githubusercontent.com/70237126/201799365-11aeef3e-6813-47ef-b7c9-4610268c772f.png">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briana-clowney-563a91168) 
