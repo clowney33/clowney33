@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 🌱 I’m currently working on Codecademy Fullstack Engineer course.<br>
 💞️ I’m looking to collaborate on any new projects<br>
-📫 Send me a message on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briana-clowney-563a91168)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briana-clowney-563a91168) 
